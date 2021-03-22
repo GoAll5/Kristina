@@ -1,0 +1,6 @@
+[submodule "Kristina"]
+	path = Kristina
+	url = https://github.com/GoAll5/Kristina
+[submodule "SubmoduleTest"]
+	path = SubmoduleTest
+	url = https://github.com/GoAll5/SubmoduleTest
